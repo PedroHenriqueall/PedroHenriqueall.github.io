@@ -1,37 +1,30 @@
-## Bem vindo a minha página
+## Meu Portefólio
+<center>
+<img src="5b602aa9-8f45-4657-9f68-f2071f619208.jpg" width="300" height="300"> 
+</center>
+## Quem sou eu?
+Pedro Henrique, moro na Cidade de Ielmo Marinho, curso o 3 ano do ensino médio no curso de programação de jogos digitais vespertino. Sou formado em informática básica, estou iniciando na área de ilustração e vetorização de em 2d, tenho conhecimento em  prévio em duas linguagens de programação. Ganhei um campeonato de futsal.
+Meus passa tempo é escutar MUITA música, ler HQ, assistir seriado, a coisa que eu mais gosto de assistir e one piece (anime/ desenho produzido no Japão), outro dos passa tempos é dormir, tipo, MUITO...
 
-You can use the [editor on GitHub](https://github.com/PedroHenriqueall/PedroHenriqueall.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Jogos
+### 01. jogo
+[![imagem 01](1JG.png)](https://maciellima.github.io/VouContarAte3/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 02. jogo
+[![imagem 01](4jogo.png)]
 
-### Markdown
+## Jogos Extras
+### 01. jogo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projetos
+<center>
+ <img src="f6426b77-2546-45ce-b90b-0deac63ebacb.jpg" width="200" height="200">
+</center>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PedroHenriqueall/PedroHenriqueall.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Contatos
+<center>
+<a href="https://www.instagram.com/ph_sei_la/" target="_blank">
+<img title="INSTAGRAM" alt="NOME" src="inta.png" /></a>
+<a href="https://www.facebook.com/pedro.kaneki" target="_blank">
+<img title="FACEBOOK" alt="NOME" src="fc.png" /></a>
+</center>
