@@ -24,7 +24,7 @@ Meus passa tempo é escutar MUITA música, ler HQ, assistir seriado, a coisa que
 # Contatos
 <center>
 <a href="https://www.instagram.com/ph_sei_la/" target="_blank">
-<img title="INSTAGRAM" alt="NOME" src="inta.png" /></a>
+<img title="INSTAGRAM" alt="NOME" src="inta.png" width="100" height="100" /></a>
 <a href="https://www.facebook.com/pedro.kaneki" target="_blank">
-<img title="FACEBOOK" alt="NOME" src="fc.png" /></a>
+<img title="FACEBOOK" alt="NOME" src="fc.png" width="100" height="100" /></a>
 </center>
