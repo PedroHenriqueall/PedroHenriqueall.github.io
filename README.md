@@ -20,7 +20,7 @@ Meus passa tempo é escutar MUITA música, ler HQ, assistir seriado, a coisa que
 <center>
  <img src="f6426b77-2546-45ce-b90b-0deac63ebacb.jpg" width="200" height="200">
 </center>
-**_Desenho feito para abertura do jogo referente ao 4 bimestre_
+**DESCRIÇÃO :_Desenho feito para abertura do jogo referente ao 4 bimestre_
 
 # Contatos
 <center>
