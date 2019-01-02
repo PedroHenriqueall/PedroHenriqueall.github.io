@@ -14,7 +14,7 @@ Meus passa tempo é escutar MUITA música, ler HQ, assistir seriado, a coisa que
 [![imagem 01](4jogo.png)]
 
 ### 03. jogo
-[![PedroHenriqueall.github.io/fb/](fc.png)]
+[![PedroHenriqueall.github.io/fb/](fc.jpeg)]
 
 ## Jogos Extras
 ### 01. jogo
