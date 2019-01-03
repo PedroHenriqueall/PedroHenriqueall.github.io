@@ -11,7 +11,7 @@ Meus passa tempo é escutar MUITA música, ler HQ, assistir seriado, a coisa que
 [![imagem 01](1JG.png)](https://maciellima.github.io/VouContarAte3/)
 
 ### 02. jogo
-[![imagem 01](4jogo.png)]
+[![imagem 02](4jogo.png)](Maciellima.github.io/sempadrao/)
 
 ### 03. jogo
 [![imagem 03](fr.jpg)](https://PedroHenriqueall.github.io/fb/)
